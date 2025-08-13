@@ -1,0 +1,27 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(
+    90deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(191, 242, 208, 1) 0%,
+    rgba(87, 199, 133, 1) 32%,
+    rgba(237, 221, 83, 1) 100%
+  );
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+img {
+  margin-bottom: 15px;
+}
+
+.bang-chicken {
+  width: 160px;
+  height: auto;
+}
